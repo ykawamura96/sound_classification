@@ -1,5 +1,5 @@
 microphone:
-  name: default # microphone name
+  name: USB PnP Sound Device # microphonen name
   rate: 44100 # sampling rate of microphone
   length: 512 # the number of sampling data in fft
                # length = rate / frequency resolution of fft
